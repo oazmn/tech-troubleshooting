@@ -30,7 +30,7 @@ The GitHub integration is **not available on free Google accounts.** You must ha
 * **Google Workspace Enterprise**
 
 ### 3. The Import Method
-Simply pasting a GitHub link into the chat prompt does not trigger the integration. You must use the designated **"Import"** function within the Gemini interface.
+Simply pasting a GitHub link into the chat prompt does not trigger the integration. You must use the designated [**"Import"**](/assets/importcode.png) function within the Gemini interface.
 
 ---
 
