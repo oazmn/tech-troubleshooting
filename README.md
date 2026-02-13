@@ -13,7 +13,7 @@ Modern tech is powerful but often frustratingly complex. This repository bridges
 
 | Date | Topic | Category | The Solution |
 | :--- | :--- | :--- | :--- |
-| 2026-02-13 | [Gemini & GitHub Integration](./articles/gemini-github-integration.md) | AI Tools | Fixing connection errors without needing to code. |
+| 2026-02-13 | [Gemini & GitHub Integration](./articles/gemini-github-integration.md) | AI Tools | Fixing connection errors. |
 | *Coming Soon* | *Next Fix...* | *TBD* | *Stay tuned.* |
 
 ---
