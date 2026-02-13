@@ -1,0 +1,9 @@
+title: The Tech Fix Log
+description: Technical solutions for everyone - documented by a non-developer.
+baseurl: "/tech-troubleshooting/" 
+url: "https://oazmn.github.io"
+
+theme: minima
+
+plugins:
+  - jekyll-feed
